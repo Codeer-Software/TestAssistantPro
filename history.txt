@@ -25,3 +25,4 @@ version 0.39	2018/9/18
 version 0.40	2018/9/20
 version 0.41	2018/9/21
 version 0.42	2018/10/2
+version 0.43	2018/10/2
