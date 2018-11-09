@@ -42,3 +42,4 @@ version 0.56	2018/11/5
 version 0.57	2018/11/5
 version 0.58	2018/11/6
 version 0.59	2018/11/7
+version 0.60	2018/11/9
