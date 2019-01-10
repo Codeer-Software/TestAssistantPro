@@ -57,3 +57,4 @@ version 0.77	2018/11/28
 version 0.78	2018/11/29
 version 0.79	2019/1/4
 version 0.80	2019/1/4
+version 0.82	2019/1/10
