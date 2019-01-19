@@ -59,3 +59,4 @@ version 0.79	2019/1/4
 version 0.80	2019/1/4
 version 0.82	2019/1/10
 version 0.83	2019/1/11
+version 0.86	2019/1/20
