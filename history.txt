@@ -80,3 +80,4 @@ version 1.19	2019/4/8
 version 1.20	2019/4/9
 version 1.21	2019/5/4
 version 1.22	2019/5/13
+version 1.23	2019/5/15
