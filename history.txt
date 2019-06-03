@@ -82,3 +82,4 @@ version 1.21	2019/5/4
 version 1.22	2019/5/13
 version 1.23	2019/5/15
 version 1.26	2019/5/27
+version 1.27	2019/6/4
