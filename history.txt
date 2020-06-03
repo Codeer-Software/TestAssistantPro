@@ -98,3 +98,4 @@ version 1.52	2020/1/18
 version 1.53	2020/3/4
 version 1.54	2020/6/1
 version 1.55	2020/6/2
+version 1.56	2020/6/3
