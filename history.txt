@@ -100,3 +100,4 @@ version 1.54	2020/6/1
 version 1.55	2020/6/2
 version 1.56	2020/6/3
 version 1.57	2020/6/4
+version 1.58	2020/6/10
