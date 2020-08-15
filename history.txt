@@ -112,3 +112,4 @@ version 1.70	2020/8/4
 version 1.71	2020/8/4
 version 1.72	2020/8/9
 version 1.73	2020/8/13
+version 1.74	2020/8/15
